@@ -1,0 +1,124 @@
+"sub-block number","assessed","trial number","restarted trial","GO stimulus","button response","trial response","reaction time","stop trial series","nominal SSD","measured SSD","failed stop",
+"1","no","1","no","right","right","correct button","1215","","","","",
+"","","2","no","left","left","correct button","1035","","","","",
+"","","3","no","right","right","correct button","924","","","","",
+"","","4","no","right","right","correct button","1117","","","","",
+"","","5","no","left","left","correct button","803","","","","",
+"","","6","no","right","right","correct button","1114","","","","",
+"","","7","no","right","right","correct button","825","","","","",
+"","","8","no","right","right","correct button","884","","","","",
+"","","9","no","left","left","correct button","793","","","","",
+"","","10","no","left","left","correct button","1444","","","","",
+"","","11","no","right","right","correct button","868","","","","",
+"","","12","no","left","left","correct button","1226","","","","",
+"","","13","no","left","left","correct button","963","","","","",
+"","","14","no","right","right","correct button","1729","","","","",
+"","","15","no","left","left","correct button","1289","","","","",
+"","","16","no","left","left","correct button","1301","","","","",
+"2","yes","1","no","right","right","correct button","1268","","","","",
+"","","2","no","right","right","correct button","769","","","","",
+"","","3","no","left","","","","1","100","77","no",
+"","","4","no","left","left","correct button","1143","","","","",
+"","","5","no","left","left","correct button","887","","","","",
+"","","6","no","right","right","correct button","924","","","","",
+"","","7","no","right","right","correct button","881","","","","",
+"","","8","no","left","left","correct button","984","","","","",
+"","","9","no","left","","","","3","400","382","no",
+"","","10","no","right","","","","2","200","194","no",
+"","","11","no","left","left","correct button","1216","","","","",
+"","","12","no","right","right","correct button","830","","","","",
+"","","13","no","left","left","correct button","919","","","","",
+"","","14","no","right","","","","4","500","500","no",
+"","","15","no","right","right","correct button","851","","","","",
+"","","16","no","left","left","correct button","714","","","","",
+"3","yes","1","no","right","right","correct button","2346","","","","",
+"","","2","no","left","left","correct button","1091","","","","",
+"","","3","no","left","left","correct button","1471","","","","",
+"","","4","no","left","left","correct button","864","","","","",
+"","","5","no","right","right","correct button","938","","","","",
+"","","6","no","right","right","correct button","935","","","","",
+"","","7","no","left","left","correct button","957","","","","",
+"","","8","no","right","right","correct button","706","","","","",
+"","","9","no","left","left","correct button","828","","","","",
+"","","10","no","left","","","","1","150","145","no",
+"","","11","no","right","","","","2","250","231","no",
+"","","12","no","right","right","correct button","1108","","","","",
+"","","13","no","left","left","correct button","1025","","","","",
+"","","14","no","right","","","","4","550","541","no",
+"","","15","no","left","","","","3","450","427","no",
+"","","16","no","right","right","correct button","1263","","","","",
+"4","yes","1","no","right","right","correct button","1442","","","","",
+"","","2","no","left","left","correct button","1347","","","","",
+"","","3","no","right","right","correct button","1086","","","","",
+"","","4","no","right","right","correct button","1251","","","","",
+"","","5","no","left","","","","1","200","189","no",
+"","","6","no","left","left","correct button","1220","","","","",
+"","","7","no","left","left","correct button","1124","","","","",
+"","","8","no","left","left","correct button","953","","","","",
+"","","9","no","right","","","","4","600","591","no",
+"","","10","no","right","right","correct button","1363","","","","",
+"","","11","no","right","right","correct button","1194","","","","",
+"","","12","no","left","left","correct button","1047","","","","",
+"","","13","no","right","","","","2","300","297","no",
+"","","14","no","right","right","correct button","1295","","","","",
+"","","15","no","left","","","","3","500","478","no",
+"","","16","no","left","left","correct button","884","","","","",
+"5","yes","1","no","right","","","","4","650","649","no",
+"","","2","no","left","left","correct button","2118","","","","",
+"","","3","no","right","right","correct button","1429","","","","",
+"","","4","no","left","","","","1","250","247","no",
+"","","5","no","right","right","correct button","1310","","","","",
+"","","6","no","left","left","correct button","1827","","","","",
+"","","7","no","left","","","","3","550","540","no",
+"","","8","no","right","right","correct button","933","","","","",
+"","","9","no","right","right","correct button","1460","","","","",
+"","","10","no","right","right","correct button","1377","","","","",
+"","","11","no","right","right","correct button","1422","","","","",
+"","","12","no","right","","","","2","350","349","no",
+"","","13","no","left","left","correct button","1497","","","","",
+"","","14","no","left","left","correct button","1619","","","","",
+"","","15","no","left","left","correct button","1837","","","","",
+"","","16","no","left","left","correct button","1502","","","","",
+"","","","","","","","","","","","",
+
+"test aborted at Mon Feb 26 22:31:10 PST 2024"
+
+"DESCRIPTIONS"
+
+"Session start time : Feb 26, 2024 10:21:56 PM"
+"User name : ThinkPad"
+"Computer name : DESKTOP-KGQ01KM"
+"Software key ID : "
+"Subject ID : bahar ghorbanzadeh"
+"Date of birth : "
+"Gender : Female"
+"Subject notes : "
+"Age : "
+"NART : "
+"Session notes : "
+"Session # : 1"
+"Battery : mehraveh"
+"Test : (SST) Stop Signal Task"
+"Mode : touch screen clinical"
+"Testing language : English"
+"Test start time : Feb 26, 2024 10:26:51 PM"
+"Test duration : 258238"
+"Test outcome : test aborted"
+"Press pad type : Touch screen"
+"Test notes : "
+"Computer manufacturer : LENOVO"
+"Computer model : 20DK0026US"
+"Display dimensions : (372480;209520)"
+
+"sub-block number : The number of the sub-block. "
+"assessed : Whether this was an assessed sub-block. "
+"trial number : The number of the trial within the sub-block. "
+"restarted trial : If a response occurs before the STOP signal or GO stimulus are presented, a trial may be restarted. If this is true, the following trial will be the restart of this trial. "
+"GO stimulus : Whether the GO stimulus was a left or right stimulus. "
+"button response : Which button the subject responded to the trial with, if any. "
+"trial response : The type of response made by the subject to the trial, if any. "
+"reaction time : The latency of the subject's response, measured from the presentation of the GO stimulus. "
+"stop trial series : For stop trials, the number of the stop trial series that this stop trial is part of. "
+"nominal SSD : For stop trials, the current SSD that stop trial series should use. This will be negative for trials where the STOP signal should precede the GO stimulus. "
+"measured SSD : For stop trials, the time measured from the presentation of the GO stimulus to the presentation of the STOP signal. This will be negative if the STOP signal preceded the GO stimulus. "
+"failed stop : For stop trials, true if this was a failed stop (where the subject made a response), false otherwise. "

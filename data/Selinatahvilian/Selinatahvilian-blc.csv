@@ -1,0 +1,76 @@
+"stage","correct circle","choice","correct box","correct","choice duration",
+"1","little","1","right","yes","1383",
+"","","2","right","yes","732",
+"","","3","right","yes","848",
+"","","4","left","yes","746",
+"","","5","right","yes","661",
+"","","6","left","yes","626",
+"","","7","left","yes","653",
+"","","8","left","yes","721",
+"","","9","left","yes","592",
+"","","10","right","yes","496",
+"","","11","left","yes","835",
+"","","12","right","yes","541",
+"","","13","left","yes","760",
+"","","14","right","yes","607",
+"","","15","right","yes","717",
+"","","16","left","yes","1452",
+"","","17","left","yes","667",
+"","","18","right","yes","620",
+"","","19","right","yes","609",
+"","","20","left","yes","618",
+"2","big","1","right","yes","1007",
+"","","2","left","yes","641",
+"","","3","right","yes","521",
+"","","4","right","yes","543",
+"","","5","right","yes","487",
+"","","6","left","yes","695",
+"","","7","left","yes","676",
+"","","8","left","yes","579",
+"","","9","right","yes","667",
+"","","10","right","yes","595",
+"","","11","left","yes","573",
+"","","12","left","yes","582",
+"","","13","right","yes","504",
+"","","14","right","yes","491",
+"","","15","left","yes","611",
+"","","16","right","yes","641",
+"","","17","left","yes","594",
+"","","18","right","yes","467",
+"","","19","left","yes","506",
+"","","20","left","yes","697",
+"","","","","","",
+
+"DESCRIPTIONS"
+
+"Session start time : Feb 26, 2024 10:40:28 PM"
+"User name : ThinkPad"
+"Computer name : DESKTOP-KGQ01KM"
+"Software key ID : "
+"Subject ID : selina tahvilian"
+"Date of birth : "
+"Gender : Female"
+"Subject notes : "
+"Age : "
+"NART : "
+"Session notes : "
+"Session # : 1"
+"Battery : mehraveh"
+"Test : (BLC) Big / Little Circle"
+"Mode : clinical"
+"Testing language : English"
+"Test start time : Feb 26, 2024 10:41:02 PM"
+"Test duration : 93038"
+"Test outcome : test completed"
+"Press pad type : Keyboard, mouse, or mouse-based press pad"
+"Test notes : "
+"Computer manufacturer : LENOVO"
+"Computer model : 20DK0026US"
+"Display dimensions : (372480;209520)"
+
+"stage : Stages, during which a given circle is always correct, are numbered from 1 in this column. "
+"correct circle : Which circle was correct during this stage. "
+"choice : Individual choices the subject makes during a stage are numbered from 1 in this column. "
+"correct box : The box containing the correct circle. "
+"correct : Whether the subject chose the correct box. "
+"choice duration : How long the subject took to make their choice. "

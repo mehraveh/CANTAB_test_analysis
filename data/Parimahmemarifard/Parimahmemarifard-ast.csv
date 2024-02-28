@@ -1,0 +1,108 @@
+"block number","assessed","pre-empt delay","response duration allowed","trial number","trial type","trial switch","stimulus location","stimulus displayed","pre-stimulus delay","trial outcome","correct reaction time","incorrect reaction time","pre-empt reaction time","button pressed","correct choice",
+"1","no","100","2100","1","direction","no","centre","left-arrow","500","correct","959","","","left","left",
+"","","","","2","direction","no","centre","left-arrow","500","correct","916","","","left","left",
+"","","","","3","direction","no","centre","left-arrow","500","correct","770","","","left","left",
+"","","","","4","direction","no","centre","right-arrow","500","correct","856","","","right","right",
+"","","","","5","direction","no","centre","left-arrow","500","correct","715","","","left","left",
+"","","","","6","direction","no","centre","right-arrow","500","correct","721","","","right","right",
+"","","","","7","direction","no","centre","right-arrow","500","correct","1159","","","right","right",
+"","","","","8","direction","no","centre","right-arrow","500","correct","824","","","right","right",
+"2","no","100","2100","1","direction","no","left","right-arrow","500","correct","939","","","right","right",
+"","","","","2","direction","no","right","right-arrow","500","correct","807","","","right","right",
+"","","","","3","direction","no","left","left-arrow","500","correct","711","","","left","left",
+"","","","","4","direction","no","right","left-arrow","500","correct","883","","","left","left",
+"","","","","5","direction","no","left","left-arrow","500","correct","1151","","","left","left",
+"","","","","6","direction","no","left","right-arrow","500","correct","867","","","right","right",
+"","","","","7","direction","no","right","left-arrow","500","correct","945","","","left","left",
+"","","","","8","direction","no","right","right-arrow","500","correct","759","","","right","right",
+"3","yes","100","2100","1","direction","no","right","left-arrow","500","correct","824","","","left","left",
+"","","","","2","direction","no","right","left-arrow","500","correct","1077","","","left","left",
+"","","","","3","direction","no","right","left-arrow","500","correct","941","","","left","left",
+"","","","","4","direction","no","left","right-arrow","500","correct","918","","","right","right",
+"","","","","5","direction","no","right","left-arrow","500","correct","951","","","left","left",
+"","","","","6","direction","no","left","left-arrow","500","correct","925","","","left","left",
+"","","","","7","direction","no","left","left-arrow","500","correct","851","","","left","left",
+"","","","","8","direction","no","right","right-arrow","500","correct","706","","","right","right",
+"","","","","9","direction","no","right","left-arrow","500","correct","889","","","left","left",
+"","","","","10","direction","no","right","right-arrow","500","correct","693","","","right","right",
+"","","","","11","direction","no","left","right-arrow","500","correct","946","","","right","right",
+"","","","","12","direction","no","right","left-arrow","500","correct","815","","","left","left",
+"","","","","13","direction","no","right","right-arrow","500","correct","807","","","right","right",
+"","","","","14","direction","no","right","right-arrow","500","correct","892","","","right","right",
+"","","","","15","direction","no","left","left-arrow","500","correct","835","","","left","left",
+"","","","","16","direction","no","right","right-arrow","500","correct","693","","","right","right",
+"","","","","17","direction","no","right","right-arrow","500","correct","863","","","right","right",
+"","","","","18","direction","no","right","left-arrow","500","correct","964","","","left","left",
+"","","","","19","direction","no","left","left-arrow","500","correct","885","","","left","left",
+"","","","","20","direction","no","right","right-arrow","500","correct","781","","","right","right",
+"","","","","21","direction","no","left","left-arrow","500","correct","752","","","left","left",
+"","","","","22","direction","no","left","right-arrow","500","correct","915","","","right","right",
+"","","","","23","direction","no","right","left-arrow","500","correct","920","","","left","left",
+"","","","","24","direction","no","left","right-arrow","500","correct","810","","","right","right",
+"","","","","25","direction","no","right","left-arrow","500","correct","794","","","left","left",
+"","","","","26","direction","no","left","left-arrow","500","correct","956","","","left","left",
+"","","","","27","direction","no","left","right-arrow","500","correct","1026","","","right","right",
+"","","","","28","direction","no","left","left-arrow","500","correct","720","","","left","left",
+"","","","","29","direction","no","right","right-arrow","500","correct","767","","","right","right",
+"","","","","30","direction","no","left","left-arrow","500","correct","693","","","left","left",
+"","","","","31","direction","no","left","right-arrow","500","correct","828","","","right","right",
+"","","","","32","direction","no","left","right-arrow","500","correct","1038","","","right","right",
+"","","","","33","direction","no","right","right-arrow","500","correct","927","","","right","right",
+"","","","","34","direction","no","left","left-arrow","500","correct","1254","","","left","left",
+"","","","","35","direction","no","left","right-arrow","500","correct","1287","","","right","right",
+"","","","","36","direction","no","left","left-arrow","500","correct","966","","","left","left",
+"","","","","37","direction","no","right","right-arrow","500","correct","699","","","right","right",
+"","","","","38","direction","no","left","right-arrow","500","correct","1049","","","right","right",
+"","","","","39","direction","no","left","right-arrow","500","correct","859","","","right","right",
+"","","","","40","direction","no","right","left-arrow","500","correct","1112","","","left","left",
+"","","","","","","","","","","","","","","","",
+
+"test aborted at Mon Feb 26 21:22:33 PST 2024"
+
+"DESCRIPTIONS"
+
+"Session start time : Feb 26, 2024 9:17:19 PM"
+"User name : ThinkPad"
+"Computer name : DESKTOP-KGQ01KM"
+"Software key ID : "
+"Subject ID : parimah memarianfard"
+"Date of birth : "
+"Gender : Female"
+"Subject notes : "
+"Age : "
+"NART : "
+"Session notes : "
+"Session # : 1"
+"Battery : mehraveh"
+"Test : (AST) Attention Switching Task"
+"Mode : touch screen 8d1-8d2-40d2a-8s-40sa-8s8d-40s40da"
+"Testing language : English"
+"Test start time : Feb 26, 2024 9:19:39 PM"
+"Test duration : 173624"
+"Test outcome : test aborted"
+"Press pad type : Touch screen"
+"Test notes : Control of graphics device lost at 109936 ms since test start. [block 3 -> trial 13]
+
+Control of graphics device regained at 110451 ms since test start. [block 3 -> trial 13]
+
+A pause of length 515 ms occurred 109936 ms into the test. [block 3 -> trial 13]"
+"Computer manufacturer : LENOVO"
+"Computer model : 20DK0026US"
+"Display dimensions : (372480;209520)"
+
+"block number : Each block consists of multiple stimulus presentations. A block may be assessed or practice, and has a number of trials which all have the same pre-empt delay and response window. Blocks are numbered from 1. "
+"assessed : Whether this was an assessed block (versus a practice one). "
+"pre-empt delay : Responses made before this delay has elapsed after the presentation of a stimulus are regarded as being too soon to be a genuine response to the presentation. For example, if the pre-empt delay is 100ms and the subject responds only 50ms after a stimulus presentation, an error of commission is recorded rather than a correct or incorrect response. "
+"response duration allowed : The duration from the display of the stimulus for which the subject may respond to a stimulus. If the subject does not respond in this time, they are deemed to have made an error of omission. This duration includes the pre-empt delay. "
+"trial number : Each block consists of multiple trials. Each trial typically consists of the presentation of a single stimulus and the recording of any subject response to it. Note that the subject may respond before the stimulus appears - this still constitutes a 'trial', so some columns may appear blank in such cases. Trials are numbered from 1 in this column. "
+"trial type : The type of the trial. For example, 'direction' for trials assessing the direction of stimuli. "
+"trial switch : A trial is switched if it is not the first trial in a block and if the immediately preceding trial was of a different trial type to this trial. "
+"stimulus location : Whether the stimulus was (or would have been, in the case of an error of commission) on the left, right or centre of the screen. "
+"stimulus displayed : The name of the stimulus that was presented on this trial, such as 'left-arrow'. "
+"pre-stimulus delay : The randomly generated delay from the end of the previous trial, or the start of the block, before the stimulus was displayed. "
+"trial outcome : Type of response made by the subject - 'correct' (correct button in time), 'incorrect' (pressed a button in time but the wrong one), 'commission error' (pressed before stimulus appeared or after the stimulus had appeared but quicker than the best human reaction time) and 'omission error' (made no response before the 'response duration allowed' elapsed). "
+"correct reaction time : The duration, measured from the moment at which the stimulus appears, that the subject took to make their reaction in correct trials. In all other trials, this will be blank. "
+"incorrect reaction time : The duration, measured from the moment at which the stimulus appears, that the subject took to make their reaction in incorrect trials. In all other trials, this will be blank. "
+"pre-empt reaction time : The duration, measured from the moment at which the stimulus appears, that the subject took to make their reaction in trials where they reacted during the pre-empt period (these trials have the outcome 'commission error'). These reaction times will therefore all be less than the pre-empt delay for this block. This is blank for all other trials. "
+"button pressed : The button pressed by the subject (‘left’ or ‘right’), or ‘none’ if no button was pressed before ‘response duration allowed’ elapsed. "
+"correct choice : Represents the choice that must be made by the subject to elicit a correct response to the trial. The correct choice depends upon the type of trial (i.e. whether the subject is responding to the direction of location of stimuli, for example), which stimulus has been displayed and the location in which the stimulus has been displayed. "

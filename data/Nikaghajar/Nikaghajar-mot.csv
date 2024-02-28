@@ -1,0 +1,60 @@
+"presentation number","invigilator advance preceded","assessed","timeout","stimulus x","stimulus y","hit latency","touch number","touch latency","touch x","touch y","distance","hit",
+"1","","no","6000","200","912","823","1","823","138","901","62","yes",
+"2","","no","6000","200","542","900","1","900","208","497","45","yes",
+"3","","no","6000","930","357","796","1","796","949","330","33","yes",
+"4","2259","yes","6000","200","912","755","1","755","202","914","2","yes",
+"5","","yes","6000","200","542","671","1","671","195","577","35","yes",
+"6","","yes","6000","930","357","634","1","634","939","401","44","yes",
+"7","","yes","6000","1163","171","746","1","746","1170","160","13","yes",
+"8","","yes","6000","930","772","669","1","669","945","769","15","yes",
+"9","","yes","6000","1163","542","625","1","625","1149","524","22","yes",
+"10","","yes","6000","150","171","646","1","646","117","200","43","yes",
+"11","","yes","6000","700","1097","659","1","659","695","1070","27","yes",
+"12","","yes","6000","700","542","546","1","546","663","586","57","yes",
+"13","","yes","6000","1393","912","757","1","757","1375","927","23","yes",
+"","","","","","","","","","","","","",
+
+"DESCRIPTIONS"
+
+"Session start time : Feb 25, 2024 11:59:31 PM"
+"User name : ThinkPad"
+"Computer name : DESKTOP-KGQ01KM"
+"Software key ID : "
+"Subject ID : nika ghajar"
+"Date of birth : "
+"Gender : Female"
+"Subject notes : "
+"Age : "
+"NART : "
+"Session notes : "
+"Session # : 1"
+"Battery : mehraveh"
+"Test : (MOT) Motor Screening"
+"Mode : high visibility"
+"Testing language : English"
+"Test start time : Feb 25, 2024 11:59:31 PM"
+"Test duration : 32658"
+"Test outcome : test completed"
+"Press pad type : Keyboard, mouse, or mouse-based press pad"
+"Test notes : Control of graphics device lost at 669 ms since test start. [initialisation]
+
+Control of graphics device regained at 1184 ms since test start. [initialisation]
+
+A pause of length 515 ms occurred 669 ms into the test. [initialisation]"
+"Computer manufacturer : LENOVO"
+"Computer model : 20DK0026US"
+"Display dimensions : (372480;209520)"
+
+"presentation number : Each presentation consists of the display of a flashing cross, which the subject must touch before the timeout is reached. The presentations in this test are numbered from 1. "
+"invigilator advance preceded : Blank unless this problem was preceded by a 'please wait' screen awaiting a key press by the invigilator. (In this case the duration of that screen is given). "
+"assessed : Whether this was an assessed problem (versus a practice one). "
+"timeout : Time permitted for the subject to respond. "
+"stimulus x : Horizontal location of the stimulus from the left of the screen, on a scale from 0-1600. "
+"stimulus y : Vertical location of the stimulus from the top of the screen, on a scale from 0-1200. "
+"hit latency : The time taken to make a sufficiently accurate touch, or 'miss' if none was made. "
+"touch number : Touches made during this presentation (whether accurate or not), numbered from 1. "
+"touch latency : The time of this touch measured from the first appearance of the stimulus. "
+"touch x : Horizontal location of the touch from the left of the screen, on a scale from 0-1600. "
+"touch y : Vertical location of the touch from the top of the screen, on a scale from 0-1200. "
+"distance : Distance of the touch from the centre of the stimulus. "
+"hit : Whether this press was sufficiently accurate to be deemed a 'hit' and cause the test to move on to the next one. "

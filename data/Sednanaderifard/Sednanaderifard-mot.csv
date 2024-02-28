@@ -1,0 +1,75 @@
+"presentation number","invigilator advance preceded","assessed","timeout","stimulus x","stimulus y","hit latency","touch number","touch latency","touch x","touch y","distance","hit",
+"1","","no","6000","200","912","791","1","791","164","897","39","yes",
+"2","","no","6000","200","542","550","1","550","146","556","55","yes",
+"3","","no","6000","930","357","524","1","524","871","359","59","yes",
+"4","1915","yes","6000","200","912","1957","1","630","175","994","85","no",
+"","","","","","","","2","1957","189","893","21","yes",
+"5","","yes","6000","200","542","5010","1","593","120","543","80","no",
+"","","","","","","","2","5010","212","574","34","yes",
+"6","","yes","6000","930","357","891","1","891","917","317","42","yes",
+"7","","yes","6000","1163","171","2057","1","648","1098","170","65","no",
+"","","","","","","","2","2057","1148","153","23","yes",
+"8","","yes","6000","930","772","826","1","826","921","756","18","yes",
+"9","","yes","6000","1163","542","717","1","717","1135","567","37","yes",
+"10","","yes","6000","150","171","775","1","775","143","144","27","yes",
+"11","","yes","6000","700","1097","659","1","659","710","1133","37","yes",
+"12","","yes","6000","700","542","606","1","606","690","511","32","yes",
+"13","","yes","6000","1393","912","728","1","728","1439","896","48","yes",
+"","","","","","","","","","","","","",
+
+"DESCRIPTIONS"
+
+"Session start time : Feb 23, 2024 8:47:00 PM"
+"User name : ThinkPad"
+"Computer name : DESKTOP-KGQ01KM"
+"Software key ID : "
+"Subject ID : SEDNA NADERIFARD"
+"Date of birth : "
+"Gender : Female"
+"Subject notes : "
+"Age : "
+"NART : 199"
+"Session notes : "
+"Session # : 1"
+"Battery : mehraveh"
+"Test : (MOT) Motor Screening"
+"Mode : high visibility"
+"Testing language : English"
+"Test start time : Feb 23, 2024 8:47:00 PM"
+"Test duration : 41522"
+"Test outcome : test completed"
+"Press pad type : Keyboard, mouse, or mouse-based press pad"
+"Test notes : Control of graphics device lost at 923 ms since test start. [initialisation]
+
+Control of graphics device regained at 1437 ms since test start. [initialisation]
+
+A pause of length 514 ms occurred 923 ms into the test. [initialisation]
+
+Control of graphics device lost at 23422 ms since test start. [presentation 6 pre gaps]
+
+Control of graphics device regained at 23943 ms since test start. [presentation 6 pre gaps]
+
+A pause of length 521 ms occurred 23422 ms into the test. [presentation 6 pre gaps]
+
+Control of graphics device lost at 37999 ms since test start. [presentation 13 pre gaps]
+
+Control of graphics device regained at 38520 ms since test start. [presentation 13 pre gaps]
+
+A pause of length 521 ms occurred 37999 ms into the test. [presentation 13 pre gaps]"
+"Computer manufacturer : LENOVO"
+"Computer model : 20DK0026US"
+"Display dimensions : (372480;209520)"
+
+"presentation number : Each presentation consists of the display of a flashing cross, which the subject must touch before the timeout is reached. The presentations in this test are numbered from 1. "
+"invigilator advance preceded : Blank unless this problem was preceded by a 'please wait' screen awaiting a key press by the invigilator. (In this case the duration of that screen is given). "
+"assessed : Whether this was an assessed problem (versus a practice one). "
+"timeout : Time permitted for the subject to respond. "
+"stimulus x : Horizontal location of the stimulus from the left of the screen, on a scale from 0-1600. "
+"stimulus y : Vertical location of the stimulus from the top of the screen, on a scale from 0-1200. "
+"hit latency : The time taken to make a sufficiently accurate touch, or 'miss' if none was made. "
+"touch number : Touches made during this presentation (whether accurate or not), numbered from 1. "
+"touch latency : The time of this touch measured from the first appearance of the stimulus. "
+"touch x : Horizontal location of the touch from the left of the screen, on a scale from 0-1600. "
+"touch y : Vertical location of the touch from the top of the screen, on a scale from 0-1200. "
+"distance : Distance of the touch from the centre of the stimulus. "
+"hit : Whether this press was sufficiently accurate to be deemed a 'hit' and cause the test to move on to the next one. "

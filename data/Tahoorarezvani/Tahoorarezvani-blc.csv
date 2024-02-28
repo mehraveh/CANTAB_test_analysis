@@ -1,0 +1,80 @@
+"stage","correct circle","choice","correct box","correct","choice duration",
+"1","little","1","left","yes","1700",
+"","","2","left","yes","657",
+"","","3","right","yes","711",
+"","","4","right","yes","634",
+"","","5","right","yes","620",
+"","","6","left","yes","737",
+"","","7","right","yes","578",
+"","","8","left","yes","657",
+"","","9","right","yes","657",
+"","","10","left","yes","637",
+"","","11","left","yes","668",
+"","","12","left","yes","603",
+"","","13","right","yes","534",
+"","","14","left","yes","699",
+"","","15","left","yes","654",
+"","","16","right","yes","754",
+"","","17","right","yes","509",
+"","","18","left","yes","656",
+"","","19","right","yes","410",
+"","","20","right","yes","541",
+"2","big","1","left","yes","626",
+"","","2","right","yes","530",
+"","","3","left","yes","594",
+"","","4","right","yes","460",
+"","","5","right","yes","451",
+"","","6","left","yes","791",
+"","","7","left","yes","566",
+"","","8","left","yes","739",
+"","","9","left","yes","582",
+"","","10","left","yes","670",
+"","","11","right","yes","684",
+"","","12","left","yes","589",
+"","","13","left","yes","626",
+"","","14","right","yes","1295",
+"","","15","right","yes","859",
+"","","16","right","yes","669",
+"","","17","right","yes","498",
+"","","18","left","yes","628",
+"","","19","right","yes","551",
+"","","20","right","yes","656",
+"","","","","","",
+
+"DESCRIPTIONS"
+
+"Session start time : Feb 25, 2024 9:00:54 PM"
+"User name : ThinkPad"
+"Computer name : DESKTOP-KGQ01KM"
+"Software key ID : "
+"Subject ID : tahoora rezvani"
+"Date of birth : "
+"Gender : Female"
+"Subject notes : "
+"Age : "
+"NART : "
+"Session notes : "
+"Session # : 1"
+"Battery : mehraveh"
+"Test : (BLC) Big / Little Circle"
+"Mode : clinical"
+"Testing language : English"
+"Test start time : Feb 25, 2024 9:01:34 PM"
+"Test duration : 103354"
+"Test outcome : test completed"
+"Press pad type : Keyboard, mouse, or mouse-based press pad"
+"Test notes : Control of graphics device lost at 53446 ms since test start. [problem 1 -> attempt 16]
+
+Control of graphics device regained at 53958 ms since test start. [problem 1 -> attempt 16]
+
+A pause of length 512 ms occurred 53446 ms into the test. [problem 1 -> attempt 16]"
+"Computer manufacturer : LENOVO"
+"Computer model : 20DK0026US"
+"Display dimensions : (372480;209520)"
+
+"stage : Stages, during which a given circle is always correct, are numbered from 1 in this column. "
+"correct circle : Which circle was correct during this stage. "
+"choice : Individual choices the subject makes during a stage are numbered from 1 in this column. "
+"correct box : The box containing the correct circle. "
+"correct : Whether the subject chose the correct box. "
+"choice duration : How long the subject took to make their choice. "
